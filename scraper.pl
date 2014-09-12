@@ -133,7 +133,8 @@ sub make_fonts
 		size => 10,
 		valign => 'top',
 		align => 'left',
-		border => 1
+		border => 1,
+		text_wrap => 1
 	);
 }
 
